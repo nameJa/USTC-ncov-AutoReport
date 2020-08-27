@@ -21,7 +21,7 @@
 
 1. 将本代码仓库fork到自己的 github。
 
-2. 根据自己的实际情况修改data.json的数据，参看下文。**这里给出的 `data.json` 仅供参考。**
+2. 根据自己的实际情况修改data.json的数据(2333)，参看下文。**这里给出的 `data.json` 仅供参考。**
 
 3. 将修改好的代码push至master分支。如果不需要修改 `data.json`，请在 `README.md` 里添加一个空格并push，否则不会触发之后的步骤。
 
