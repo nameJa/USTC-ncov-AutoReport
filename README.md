@@ -5,7 +5,7 @@
 ![Language](https://img.shields.io/badge/language-Python3-yellow.svg)
 ![GitHub stars](https://img.shields.io/github/stars/Violin9906/USTC-ncov-AutoReport)
 ![GitHub forks](https://img.shields.io/github/forks/Violin9906/USTC-ncov-AutoReport)
-
+    
 ## 说明
 
 本代码仓库fork自[ForeverFancy/USTC-ncov-AutoReport](https://github.com/ForeverFancy/USTC-ncov-AutoReport)，在此基础上引入了持续集成功能实现全自动打卡。
